@@ -125,13 +125,12 @@ These KPIs provide a structured view of sales performance across multiple busine
 
 The interactive dashboard includes:
 
-- Revenue Overview Page  
-- Region-wise Performance Analysis  
-- Product Category Breakdown  
-- Sales Team Performance View  
-- KPI Summary Cards  
-- Drill-through functionality for granular analysis  
-- Interactive slicers for dynamic filtering  
+- Revenue Overview with KPI Cards  
+- Sales Trend Analysis (Monthly) 
+- Geography-wise Sales Distribution
+- Salesperson Performance Table
+- Low Box Shipment Tracking
+- Interactive filtering (if applicable)   
 
 The dashboard enables users to explore sales insights at product, region, and team levels.
 
