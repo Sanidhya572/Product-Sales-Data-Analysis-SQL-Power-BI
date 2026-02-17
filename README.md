@@ -138,7 +138,8 @@ The dashboard enables users to explore sales insights at product, region, and te
 
 ## 📸 Dashboard Preview
 
-<img width="689" height="413" alt="image" src="https://github.com/user-attachments/assets/ebde009c-a210-45c5-b3c3-389c80f82f47" />
+<img width="685" height="414" alt="image" src="https://github.com/user-attachments/assets/09771c14-308d-4986-90f8-a91998af2548" />
+<img width="685" height="414" alt="image" src="https://github.com/user-attachments/assets/09771c14-308d-4986-90f8-a91998af2548" />
 
 ---
 
