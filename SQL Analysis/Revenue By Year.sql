@@ -1,0 +1,1 @@
+select year(SaleDate) as Sales_Year, sum(Amount) as Total_Revenue from sales group by year(SaleDate) order by Sales_Year;
